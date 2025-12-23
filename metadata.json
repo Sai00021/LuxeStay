@@ -1,0 +1,8 @@
+{
+  "name": "Copy of LuxeStay - Premier Airbnb Clone",
+  "description": "A high-fidelity Airbnb clone built with React, Tailwind CSS, and TypeScript. Features property listings, search filters, booking management, and a dedicated host dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
